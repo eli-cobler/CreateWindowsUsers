@@ -1,2 +1,2 @@
-python %cd%\createUsers.py 
+python %~dp0createUsers.py 
 pause
